@@ -1,16 +1,43 @@
-# eshope
+🛍️ eShop Mobile – Flutter E-Commerce Application
+A complete mobile shopping experience built with Flutter and Firebase.
+This project simulates a real-world e-commerce platform including product browsing, shopping cart, and payment workflow, all built natively for Android and iOS with Firebase integration.
 
-A new Flutter project.
+🚀 Features
+🧾 Product Catalog – View items by category with images, details, and price
 
-## Getting Started
+🛒 Shopping Cart – Add/remove items, view total, proceed to checkout
 
-This project is a starting point for a Flutter application.
+💳 Payment Simulation – Placeholder flow for payment (integration-ready)
 
-A few resources to get you started if this is your first Flutter project:
+📦 Order Management – View current and past orders
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔐 Authentication – Sign up / log in with Firebase Auth
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌐 Firebase Firestore – Real-time database for products, orders, users
+
+📈 Admin Panel  – Product & category management (via Firebase Console or web UI)
+
+🛠️ Tech Stack
+
+| Layer        | Technology                          |
+| ------------ | ----------------------------------- |
+| UI/UX        |   Flutter  , Dart                   |
+| Backend      |   Firebase Firestore                |
+| Auth         |   Firebase Auth                     |
+| APIs         | REST, HTTP Client                   |
+
+🧪 How to Run
+Clone the repo
+
+git clone https://github.com/YourUsername/eShop-Mobile-Flutter.git
+
+Run Flutter setup:
+flutter pub get
+
+Launch the app:
+flutter run
+
+👨‍💻 Author
+Developed by Mohamed Amin Amjahid as part of a mobile development portfolio.
+
+This app was inspired by real-world e-commerce needs, optimized for learning + demo.
