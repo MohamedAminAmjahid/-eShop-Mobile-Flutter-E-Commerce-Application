@@ -29,8 +29,6 @@ This project simulates a real-world e-commerce platform including product browsi
 🧪 How to Run
 Clone the repo
 
-git clone https://github.com/YourUsername/eShop-Mobile-Flutter.git
-
 Run Flutter setup:
 flutter pub get
 
